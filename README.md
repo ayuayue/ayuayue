@@ -1,3 +1,5 @@
+<img src="https://github.com/YouEclipse/YouEclipse/blob/master/mario.gif" width="100">
+
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
@@ -34,8 +36,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: null
 
 ---
+<table>
+<tr>
+<td valign="top" width="50%">
 
-[![Jiasm's github stats](https://github-readme-stats.vercel.app/api?username=ayuayue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuayue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiasm's github stats](https://github-readme-stats.vercel.app/api?username=ayuayue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-<!-- 
-<img src="https://wakatime.com/share/@ayuayue/9a2ad6a6-a4b0-4f8d-bd40-e2ce81bcc095.svg" height="200"/> -->
+</td>
+<td valign="top" width="50%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuayue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
+```text
+Go          2 hrs 23 mins  █████████████▎░░░░░░░  63.5%
+HTML        1 hr 20 mins   ███████▌░░░░░░░░░░░░░  35.9%
+Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
+
+[powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
+
+</td>
+<td valign="top" width="50%">
+
+</td>
+</tr>
+</table>
+
