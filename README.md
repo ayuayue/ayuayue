@@ -39,17 +39,12 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td valign="top" width="50%">
-
-[![Jiasm's github stats](https://github-readme-stats.vercel.app/api?username=ayuayue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-
+![caoayu's github stats](https://github-readme-stats.vercel.app/api?username=ayuayue&show_icons=true&count_private=true)
 </td>
 <td valign="top" width="50%">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuayue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuayue&show_icons=true)
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td valign="top" width="50%">
 
