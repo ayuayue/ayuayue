@@ -35,19 +35,11 @@ Here are some ideas to get you started:
   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: null
 
----
+----
+
 <table>
 <tr>
 <td valign="top" width="50%">
-![caoayu's github stats](https://github-readme-stats.vercel.app/api?username=ayuayue&show_icons=true&count_private=true)
-</td>
-<td valign="top" width="50%">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuayue&show_icons=true)
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -69,3 +61,5 @@ CSS         0 secs         ░░░░░░░░░░░░░░░░░�
 </tr>
 </table>
 
+[![caoayu's github stats](https://github-readme-stats.vercel.app/api?username=ayuayue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuayue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
