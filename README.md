@@ -39,11 +39,14 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+
 <table>
 <tr>
 <td valign="top" width="50%">
 <!-- waka-box start -->
+
 #### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
+
 ```text
 Go          2 hrs 23 mins  █████████████▎░░░░░░░  63.5%
 HTML        1 hr 20 mins   ███████▌░░░░░░░░░░░░░  35.9%
@@ -51,6 +54,7 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
+
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
