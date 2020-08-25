@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: null
 
 ----
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 <table>
 <tr>
 <td valign="top" width="50%">
