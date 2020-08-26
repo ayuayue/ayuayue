@@ -40,44 +40,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/3a3356a80e52ace807abd61f7e119a7b" target="_blank">📊 Weekly development breakdown</a>
-```text
-HTML       🕓 5h51m ██████████████▊░░░░░░░░░░░░░ 52.8%
-Go         🕓 4h5m  ██████████▎░░░░░░░░░░░░░░░░░ 36.9%
-Markdown   🕓 29m   █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.4%
-YAML       🕓 21m   ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.3%
-Other      🕓 6m    ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
-
-[powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
-
-</td>
-<td valign="top" width="50%">
-
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🔫 Counter-Strike: Global Offensive 🕘 1546 hrs 25 mins
-🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-💻 Wallpaper Engine                 🕘 39 hrs 59 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
-🌏 Sid Meier's Civilization V       🕘 11 hrs 9 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-[powered by steam-box](https://github.com/YouEclipse/steam-box)
-
-</td>
-</tr>
-</table>
 
 [![caoayu's github stats](https://github-readme-stats.vercel.app/api?username=ayuayue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuayue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
