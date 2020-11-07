@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 
 ----
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/phpstorm-blue?style=flat-square)](https://www.jetbrains.com/phpstorm/) [![](https://img.shields.io/badge/goland-blue?style=flat-square)](https://www.jetbrains.com/go)
+
 [![](https://img.shields.io/badge/%20-Language-lightgrey?style=flat-square&logo=Lospec&logoColor=ffffff)]()[![](https://img.shields.io/badge/%20-PHP7-00ADD8?style=flat-square&logo=PHP&logoColor=ffffff)](https://www.php.net/) [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+
 [![](https://img.shields.io/badge/%20-Laravel-9cf?style=flat-square&logo=Laravel)]() [![](https://img.shields.io/badge/%20-Buffalo-00ADD8?style=flat-square&logo=Buefy)]() [![](https://img.shields.io/badge/-ThinkPHP-00ADD8?style=flat-square&logo=php&logoColor=ffffff)](https://golang.org/)
 
 
